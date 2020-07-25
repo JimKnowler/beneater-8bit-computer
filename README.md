@@ -4,25 +4,14 @@ Implementation of Ben Eater's design for 8 bit breadboard computer
 
 # Demo
 
-Calculating 6 * 7 - slow clock speed
+[Link to Video - Calculating 6 * 7 - slow clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.mp4)
 
-<!-- blank line -->
-<figure class="video_container">
-  <video width="400" height="300" controls="true" allowfullscreen="true" poster="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-off.png" source="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.mp4">
-  </video>
-</figure>
-<!-- blank line -->
+[Link to Video - Calculating 6 * 7 - fast clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.mp4)
 
-Calculating 6 * 7 - fast clock speed
+# Photos 
+![Overhead while turned off](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-off.png)
 
-<!-- blank line -->
-<figure class="video_container">
-  <video width="400" height="300"controls="true" allowfullscreen="true" poster="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-on-small.png">
-    <source src="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.MOV" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
+![Overhead while turned on](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-on-small.png)
 
 # References
 
