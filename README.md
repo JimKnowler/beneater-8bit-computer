@@ -8,8 +8,7 @@ Calculating 6 * 7 - slow clock speed
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="slow--six-times-seven.png">
-    <source src="path/to/video.mp4" type="video/mp4">
+  <video width="400" height="300" controls="true" allowfullscreen="true" poster="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-off.png" source="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.mp4">
   </video>
 </figure>
 <!-- blank line -->
@@ -18,8 +17,8 @@ Calculating 6 * 7 - fast clock speed
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="fast--six-times-seven.png">
-    <source src="path/to/video.mp4" type="video/mp4">
+  <video width="400" height="300"controls="true" allowfullscreen="true" poster="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-overhead-on-small.png">
+    <source src="https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.MOV" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
