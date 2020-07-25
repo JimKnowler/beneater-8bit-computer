@@ -22,6 +22,6 @@ Implementation of Ben Eater's design for 8 bit breadboard computer
 
 # References
 
-- [Ben Eater video series on Building an 8-bit breadboard computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU_)
+- [Ben Eater video series on Building an 8-bit breadboard computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 
 - [Ben Eater website](https://eater.net/8bit)
