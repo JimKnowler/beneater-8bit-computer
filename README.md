@@ -10,13 +10,13 @@ Implementation of Ben Eater's design for 8 bit breadboard computer
 
 # Demo
 
-[Link to Video - Calculating 6 * 7 - slow clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.mp4)
+[Link to Video - Calculating 6 x 7 - **slow** clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.mp4)
 
-![Preview - Calculating 6 * 7 - slow clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.gif)
+![Preview - Calculating 6 x 7 - slow clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/slow--calculate-six-times-seven.gif)
 
-[Link to Video - Calculating 6 * 7 - fast clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.mp4)
+[Link to Video - Calculating 6 x 7 - **fast** clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.mp4)
 
-![Preview - Calculating 6 * 7 - false clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.gif)
+![Preview - Calculating 6 x 7 - false clock speed](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/fast--calculate-six-times-seven.gif)
 
 # Photos 
 
@@ -26,3 +26,8 @@ Implementation of Ben Eater's design for 8 bit breadboard computer
 
 ![In Development](https://github.com/JimKnowler/beneater-8bit-computer/raw/master/docs/photo-in-development.png)
 
+# todo
+
+- annotated diagram
+- opcodes - including new additional opcodes
+- explanation of software
